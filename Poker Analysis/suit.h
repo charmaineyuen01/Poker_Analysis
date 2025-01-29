@@ -1,0 +1,12 @@
+//
+// Created by charm on 17/10/2023.
+//
+
+#ifndef PROJECT12_FRIENDFUNCTION_SUIT_H
+#define PROJECT12_FRIENDFUNCTION_SUIT_H
+
+enum Suit{
+    CLUB, DIAMOND, HEART, SPADE
+};
+
+#endif //PROJECT12_FRIENDFUNCTION_SUIT_H
